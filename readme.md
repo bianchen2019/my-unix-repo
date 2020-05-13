@@ -22,4 +22,4 @@ Last night I dreamt about eating in these restaurants:
 
 ### Contact
 
-The best way to get in touch with me is [email](bianchen2019@gmail.com).
+The best way to get in touch with me is [email](https://bookdown.org/sean/the-unix-workbench/git-and-github.html#pull-requests).
